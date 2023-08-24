@@ -108,3 +108,8 @@ summary {
 .styled-link:hover {
   background-color: #2980b9;
 }
+
+.imagen-personalizada {
+  width: 100%; /* Ajustar al 100% del ancho del contenedor */
+  height: auto; /* Mantener la proporción original de la imagen */
+}
